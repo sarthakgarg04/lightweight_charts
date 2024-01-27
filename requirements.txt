@@ -1,0 +1,10 @@
+django
+lightweight-charts
+yfinance
+pandas_ta
+pandas_datareader
+pyarrow
+
+
+#these can be install using: pip install -r requirements.txt
+#to activate virtuual env use: .\djangovenv\Scripts\Activate.ps1
